@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GangZoneFlashingFix.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="urmem">
+      <UniqueIdentifier>{addfe906-ce03-4684-9d05-4b44447aeab2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="urmem\urmem.hpp">
+      <Filter>urmem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
