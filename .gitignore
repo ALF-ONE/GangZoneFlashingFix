@@ -34,4 +34,7 @@
 *.tlog
 *.ipch
 *.db
-.vs/FPSUnlock/v16/.suo
+
+*.suo
+*.recipe
+*.iobj
