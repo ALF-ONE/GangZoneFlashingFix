@@ -1,3 +1,3 @@
-[submodule "GangZoneFlashingFix/urmem"]
-	path = GangZoneFlashingFix/urmem
+[submodule "src/urmem"]
+	path = src/urmem
 	url = https://github.com/katursis/urmem
